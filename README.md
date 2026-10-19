@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=2800&color=0:0D0221,35:7B2FBF,70:FF2A6D,1000:05D9E8&text=SOPAN%20PARNATE&fontSize=64&fontColor=FFFFFF&fontAlignY=38&stroke=05D9E8&strokeWidth=1&desc=JAVA%20%2F%2F%20DSA%20%2F%2F%20MERN%20STACK&descSize=20&descAlignY=62&descColor=F9F002&animation=fadeIn" alt="Sopan Parnate — Java, DSA, and MERN Stack" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D0221,35:7B2FBF,70:FF2A6D,100:05D9E8&text=SOPAN%20PARNATE&fontSize=64&fontColor=FFFFFF&fontAlignY=38&stroke=05D9E8&strokeWidth=1&desc=JAVA%20%2F%2F%20DSA%20%2F%2F%20MERN%20STACK&descSize=20&descAlignY=62&descColor=F9F002&animation=fadeIn" alt="Sopan Parnate — Java, DSA, and MERN Stack" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=2800&pause=900&color=05D9E8&center=true&vCenter=true&width=750&height=45&lines=%3E+Initializing+developer+profile...;%3E+Java+%2F%2F+Data+Structures+%26+Algorithms;%3E+Building+full-stack+applications;%3E+Engineering+ForensiHash;%3E+Exploring+backend+systems+%26+cybersecurity" alt="Animated terminal introduction"/>
 
