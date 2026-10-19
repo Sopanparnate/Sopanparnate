@@ -22,7 +22,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,6,2" width="100%" alt=""/>
 
-## `// ABOUT_ME`
+## `ABOUT_ME`
 
 <table>
 <tr>
@@ -64,7 +64,7 @@ I'm especially interested in **backend engineering, REST APIs, cybersecurity, cl
 
 </div>
 
-## `// TECH_STACK`
+## `TECH_STACK`
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I'm especially interested in **backend engineering, REST APIs, cybersecurity, cl
 
 </div>
 
-## `// PROJECT_DATABASE`
+## `PROJECT_DATABASE`
 
 <table>
 <tr>
@@ -196,7 +196,7 @@ Add a screenshot at assets/forensihash.png and uncomment:
 
 </div>
 
-## `// AGRIGUARD_SYSTEM_MAP`
+## `AGRIGUARD_SYSTEM_MAP`
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0D0221','primaryTextColor':'#F5F5FF','primaryBorderColor':'#05D9E8','lineColor':'#FF2A6D','secondaryColor':'#20103D','tertiaryColor':'#20103D','fontFamily':'monospace'}}}%%
@@ -215,7 +215,7 @@ flowchart LR
     class E,F alert;
 ```
 
-## `// DSA_EXECUTION_MODULE`
+## `DSA_EXECUTION_MODULE`
 
 <table>
 <tr>
@@ -241,7 +241,7 @@ I use **Java** to practice data structures and algorithms, with a focus on probl
 </tr>
 </table>
 
-## `// GITHUB_ANALYTICS`
+## ` GITHUB_ANALYTICS`
 
 <div align="center">
 
@@ -260,7 +260,7 @@ I use **Java** to practice data structures and algorithms, with a focus on probl
 
 </div>
 
-## `// CONTRIBUTION_TRACE`
+## `CONTRIBUTION_TRACE`
 
 <div align="center">
 
@@ -272,7 +272,7 @@ I use **Java** to practice data structures and algorithms, with a focus on probl
 
 </div>
 
-## `// EDUCATION_LOG`
+## `EDUCATION_LOG`
 
 | 🎓 Qualification | 🏫 Institute | 📊 Score | 📅 Year |
 |:--|:--|:--:|:--:|
@@ -280,14 +280,14 @@ I use **Java** to practice data structures and algorithms, with a focus on probl
 | **HSC (12th)** | Sunrise Dnyanpeeth Jr. College of Science, Sasti | 83.5% | 2023 |
 | **SSC (10th)** | Shri Jageshwar School and Junior College, Wadegaon | 71.0% | 2019 |
 
-## `// CERTIFICATION_RECORD`
+## `CERTIFICATION_RECORD`
 
 - ☕ **Programming in Java with Data Structures & Algorithms** — NPTEL
 - 🌐 **Web Development Certification** — EduSkills
 - 🛡️ **Cybersecurity Virtual Internship** — Palo Alto Networks supported
 - 📘 Ongoing online courses and technical workshops
 
-## `// ESTABLISH_CONNECTION`
+## `ESTABLISH_CONNECTION`
 
 ```yaml
 connection_status: OPEN
