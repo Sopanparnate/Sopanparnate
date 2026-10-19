@@ -254,7 +254,7 @@ I use **Java** to practice data structures and algorithms, with a focus on probl
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sopanparnate&bg_color=0D0221&color=05D9E8&line=FF2A6D&point=F9F002&area=true&hide_border=true&title_color=05D9E8" alt="Contribution activity graph" width="100%"/>
+
 
 <sub>Analytics are provided by third-party services and may occasionally be unavailable.</sub>
 
