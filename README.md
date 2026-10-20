@@ -272,6 +272,185 @@ I use **Java** to practice data structures and algorithms, with a focus on probl
 
 </div>
 
+## ` LIVE_DEPLOYMENTS`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/●_LIVE_IN_PRODUCTION-05D9E8?style=for-the-badge&labelColor=0D0221" alt="Live in production"/>
+<img src="https://img.shields.io/badge/SHIPPED_%26_HOSTED-FF2A6D?style=for-the-badge&labelColor=0D0221" alt="Shipped and hosted"/>
+
+*Not just localhost: these are deployed, hosted, and serving real people.*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧘 Shri Krishna Wellness Foundation
+<img src="https://img.shields.io/badge/STATUS-LIVE-2EA043?style=flat-square&labelColor=0D0221" alt="Live"/>
+<img src="https://img.shields.io/badge/TYPE-BUSINESS_WEBSITE-7B2FBF?style=flat-square&labelColor=0D0221" alt="Business website"/>
+
+<a href="https://shrikrushnawellness.fitness">
+<img src="https://image.thum.io/get/width/900/crop/560/https://shrikrushnawellness.fitness" alt="Shri Krishna Wellness Foundation preview" width="100%"/>
+</a>
+
+Official website for a yoga and wellness center in **Digras, Yavatmal**, helping the foundation reach students online for yoga, meditation, pranayama and wellness programs.
+
+**Highlights**
+
+- 🌐 Public site for yoga, meditation, pranayama and AntiGravity yoga programs
+- 💻 Online and in-person batch info for beginners, ladies, seniors and kids
+- 🔎 Local SEO: geo tags, keywords, Open Graph and Twitter cards
+- 📱 Mobile-first and responsive
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tech stack"/>
+
+<a href="https://shrikrushnawellness.fitness"><img src="https://img.shields.io/badge/VISIT_SITE_→-05D9E8?style=for-the-badge&logo=googlechrome&logoColor=0D0221&labelColor=0D0221" alt="Visit site"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 StackFlowOfficial
+<img src="https://img.shields.io/badge/STATUS-LIVE-2EA043?style=flat-square&labelColor=0D0221" alt="Live"/>
+<img src="https://img.shields.io/badge/TYPE-AGENCY_WEBSITE-7B2FBF?style=flat-square&labelColor=0D0221" alt="Agency website"/>
+
+<a href="https://stackflowofficial.in">
+<img src="https://image.thum.io/get/width/900/crop/560/https://stackflowofficial.in" alt="StackFlowOfficial preview" width="100%"/>
+</a>
+
+Website for a **web development company in Amravati**, built to present services, portfolio and pricing and to turn visitors into project inquiries.
+
+**Highlights**
+
+- 🧭 Multi-page site: Home, Portfolio, Plans, FAQ, Team and Pricing
+- 📨 Project inquiry form with service and budget selection
+- 🧱 Services spanning full-stack development, UI/UX, SEO and maintenance
+- 🔎 SEO-ready meta tags and local targeting
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb&theme=dark" alt="Tech stack"/>
+
+<a href="https://stackflowofficial.in"><img src="https://img.shields.io/badge/VISIT_SITE_→-FF2A6D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D0221" alt="Visit site"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ` INDUSTRY_DEMO_BUILDS`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DEMO_TEMPLATES-F9F002?style=for-the-badge&labelColor=0D0221&logoColor=0D0221" alt="Demo templates"/>
+<img src="https://img.shields.io/badge/READY_TO_CUSTOMIZE_FOR_CLIENTS-05D9E8?style=for-the-badge&labelColor=0D0221" alt="Ready to customize for clients"/>
+
+*Concept websites built to show what a business in each industry could look like online. Brand names and content are sample data.*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕉️ YogaNamaste
+<sub>**Yoga studio** · luxury wellness concept</sub>
+
+<a href="https://guileless-wisp-915fd2.netlify.app/">
+<img src="https://image.thum.io/get/width/900/crop/560/https://guileless-wisp-915fd2.netlify.app/" alt="YogaNamaste demo preview" width="100%"/>
+</a>
+
+A premium yoga and wellness sanctuary site with a calm, luxury feel.
+
+- 📄 Pages for classes, trainers (Acharyas), memberships, FAQ and contact
+- 📅 "Book a trial class" call-to-action flow
+- 🖼️ Studio gallery, testimonials and animated stats
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tech stack"/>
+
+<a href="https://guileless-wisp-915fd2.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO_→-05D9E8?style=flat-square&logo=netlify&logoColor=0D0221&labelColor=0D0221" alt="Live demo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏋️ Titan Fitness Club
+<sub>**Gym & fitness** · high-energy membership concept</sub>
+
+<a href="https://stackflowgymdemo.netlify.app/">
+<img src="https://image.thum.io/get/width/900/crop/560/https://stackflowgymdemo.netlify.app/" alt="Titan Fitness Club demo preview" width="100%"/>
+</a>
+
+A bold, conversion-focused gym website built to sell memberships.
+
+- 💳 Three-tier pricing with an offer banner
+- 🔁 Before/after transformation cards and trainer profiles
+- 📞 Free-trial booking form, map and WhatsApp chat button
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tech stack"/>
+
+<a href="https://stackflowgymdemo.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO_→-FF2A6D?style=flat-square&logo=netlify&logoColor=white&labelColor=0D0221" alt="Live demo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 EduSpark Academy
+<sub>**Coaching classes** · JEE / NEET / MHT-CET concept</sub>
+
+<a href="https://coaching-classes.netlify.app/">
+<img src="https://image.thum.io/get/width/900/crop/560/https://coaching-classes.netlify.app/" alt="EduSpark Academy demo preview" width="100%"/>
+</a>
+
+A coaching institute website for board, JEE, NEET and MHT-CET preparation.
+
+- 📚 Course listing with enrollment and registration pages
+- 🧪 Sections for practice tests, recorded lectures and performance tracking
+- 🏆 Animated milestones and student and parent testimonials
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tech stack"/>
+
+<a href="https://coaching-classes.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO_→-7B2FBF?style=flat-square&logo=netlify&logoColor=white&labelColor=0D0221" alt="Live demo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ EstateHub
+<sub>**Real estate** · luxury property marketplace concept</sub>
+
+<a href="https://real-estate-demowebsite.netlify.app/">
+<img src="https://image.thum.io/get/width/900/crop/560/https://real-estate-demowebsite.netlify.app/" alt="EstateHub demo preview" width="100%"/>
+</a>
+
+A property marketplace with search, listings and an admin side.
+
+- 🔍 Filter by city, zone and BHK or type
+- 🗓️ "Schedule a tour" booking modal
+- 🛠️ Admin portal page and a Vanilla JS, HTML5 and CSS3 build
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tech stack"/>
+
+<a href="https://real-estate-demowebsite.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO_→-F9F002?style=flat-square&logo=netlify&logoColor=0D0221&labelColor=0D0221" alt="Live demo"/></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```text
+> deploy --env production   ✔  2 live websites
+> deploy --env demo         ✔  4 industry templates (yoga · gym · coaching · real estate)
+```
+
+**Want a website like these for your business?** &nbsp; [**stackflowofficial.in →**](https://stackflowofficial.in)
+
+</div>
+
 ## `EDUCATION_LOG`
 
 | 🎓 Qualification | 🏫 Institute | 📊 Score | 📅 Year |
